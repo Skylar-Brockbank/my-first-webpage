@@ -29,4 +29,8 @@ body{
   height: 120px;
 }
 
-/* Lists */
+/* Lists/Div */
+.listShenanigans{
+  padding-left: 60px;
+  list-style-position: inside;
+}
