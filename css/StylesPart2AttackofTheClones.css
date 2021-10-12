@@ -1,0 +1,32 @@
+/* Headders */
+h1{
+  text-align: left;
+  
+}
+h2{
+  text-align: left;
+}
+h3{
+  text-align: left;
+}
+
+/* Body */
+body{
+  font-family: sans-serif;
+}
+/* Images */
+.Nigel{
+  max-width: 100%;
+}
+/* classes include: Book,Face,Nigel */
+.Book{
+  width: 60px;
+  height: 100px;
+}
+
+.Face{
+  width: 90px;
+  height: 120px;
+}
+
+/* Lists */
