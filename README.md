@@ -18,7 +18,7 @@ _I made this with the guidance of Epicodus, it is my first webpage. That's why i
 
 * _Clone Repository from Git Hub_
 * _Navigate to the top layer of your cloned Directory_
-* _Open |my-first-webpage/Index.Html| in your browser of choice_
+* _Open my-first-webpage/Index.Html in your browser of choice_
 
 
 > If there were additional notes to be had, this is where they'd be.
